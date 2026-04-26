@@ -32,3 +32,19 @@ Designed a simple and intuitive mobile UI for smooth booking.
 
 ## 📽 Demo
 Video shared on LinkedIn.
+
+
+## Screenshots
+
+### Home Screen
+![Home](home.png)
+
+### Explore Screen
+![Explore](explore.png)
+
+### Booking Screen
+![Booking](booking.png)
+
+### Confirmation Screen
+![Confirm](confirm.png)
+
